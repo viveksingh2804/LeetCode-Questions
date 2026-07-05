@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
