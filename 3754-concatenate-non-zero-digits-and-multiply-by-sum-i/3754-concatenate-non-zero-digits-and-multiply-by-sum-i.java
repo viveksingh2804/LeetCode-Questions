@@ -1,26 +1,11 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int m=0; long p=0; int t=0;long p1=0;
-        while(n>0)
-        {
-            int a=n%10;
-            if(a!=0)
-            {
-                p=a+p*10;
-                t=t+a;
+        long x = 0, s = 0;
+        for (char c : String.valueOf(n).toCharArray())
+            if (c != '0') {
+                x = x * 10 + c - '0';
+                s += c - '0';
             }
-            n=n/10;
-        }
-        while(p>0)
-        {
-            long a=p%10;
-            if(a!=0)
-            {
-                p1=a+p1*10;
-
-            }
-            p=p/10;
-        }
-        return p1*t;
+        return x * s;
     }
 }
