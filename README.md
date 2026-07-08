@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
