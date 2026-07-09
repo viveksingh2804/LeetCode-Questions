@@ -11,8 +11,8 @@ class Solution {
         else 
         k++;
         }
-        if (k==nums.length-1)
-        return k+1;;
+        // if (k==nums.length-1)
+        // return k+1;;
 
         return k;
     }
