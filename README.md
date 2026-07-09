@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0518-coin-change-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
