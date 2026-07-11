@@ -12,14 +12,13 @@ class Solution {
         int i = 0, j = 1;
         int ans = 0;
 
-        while (i < n && j < n) {
+        while (j < n) {
             if (nums[i] <= suffix[j]) {
                 ans = Math.max(ans, j - i);
                 j++;
             } else {
                 i++;
-                if (j <= i)
-                    j = i + 1;
+                 
             }
         }
 
