@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
