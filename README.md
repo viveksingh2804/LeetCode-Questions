@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
