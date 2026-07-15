@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
