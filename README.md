@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0279-perfect-squares) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
