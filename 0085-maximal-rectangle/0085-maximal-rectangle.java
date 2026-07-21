@@ -125,21 +125,6 @@ class Solution {
 
         return max;
     }
-
-    // public static void main(String[] args) {
-    //     int arr[] = {6, 2, 5, 4, 5, 1, 6};
-
-    //     int left[] = greater(arr);
-    //     int right[] = smaller(arr);
-
-        // System.out.println("Previous Smaller Index:");
-        // System.out.println(Arrays.toString(left));
-
-        // System.out.println("Next Smaller Index:");
-        // System.out.println(Arrays.toString(right));
-
-       //return area(left, right, arr);
     }
-
 
     }
