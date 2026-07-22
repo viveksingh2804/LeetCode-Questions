@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
