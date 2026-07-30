@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
