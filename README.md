@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -414,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
