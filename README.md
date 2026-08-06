@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
