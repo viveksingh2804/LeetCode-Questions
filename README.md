@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3731-find-missing-elements) |
