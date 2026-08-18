@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1528-shuffle-string) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
