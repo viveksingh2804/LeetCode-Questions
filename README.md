@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1528-shuffle-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2029-stone-game-ix) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
