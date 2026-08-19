@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
