@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
