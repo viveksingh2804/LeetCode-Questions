@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
@@ -567,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
