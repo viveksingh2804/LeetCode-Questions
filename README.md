@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
