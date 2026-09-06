@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0415-add-strings) |
