@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0486-predict-the-winner) |
