@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -473,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -497,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
