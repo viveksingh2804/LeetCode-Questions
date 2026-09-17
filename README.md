@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2029-stone-game-ix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1528-shuffle-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
