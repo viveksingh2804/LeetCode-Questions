@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0279-perfect-squares) |
@@ -629,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
