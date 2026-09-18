@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2029-stone-game-ix) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
