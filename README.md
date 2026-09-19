@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -642,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/viveksingh2804/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
